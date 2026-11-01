@@ -1,0 +1,16 @@
+{
+  "name": "vasant-order",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vasant Masala order booking app",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/browser": "^6.0.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/share": "^6.0.2",
+    "jspdf": "2.5.2",
+    "jspdf-autotable": "3.8.4"
+  }
+}

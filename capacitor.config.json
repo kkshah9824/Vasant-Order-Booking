@@ -1,0 +1,6 @@
+{
+  "appId": "com.vasantmasala.order",
+  "appName": "Vasant Order",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
